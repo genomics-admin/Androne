@@ -4,3 +4,9 @@ The main code base is python, however we also use arduino, java, andrid etc plat
 The first deliverable of androne is a simple google earth enhancer that allows users to get more visual data just by providing coordinate values.
 
 The latest version of this code is Geocoding V2.0 and the sample output is available in a KML format for a quick functionality verificaition.
+
+GoeCodeing projects - 
+Ideas still to work on :-
+1. compare with a real field.intigration
+2. Soil info - weather info - irrigation info - wind - sun etc info 
+3. hector conversion for USA usage.
