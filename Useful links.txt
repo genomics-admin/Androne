@@ -1,0 +1,17 @@
+Geolocation related:-
+
+KML related:-
+
+https://developers.google.com/kml/documentation/kml_tut?csw=1#polygons
+https://developers.google.com/kml/documentation/mapsSupport?csw=1
+https://developers.google.com/kml/documentation/kmlreference
+https://developers.google.com/kml/documentation/extendeddata
+
+***TOO GOOD***
+http://kml-samples.googlecode.com/svn/trunk/interactive/index.html#./Polygons/Polygons.Absolute.kml 
+
+polylinealgorithm
+https://developers.google.com/maps/documentation/utilities/polylinealgorithm
+
+Elevation API Docs:
+https://developers.google.com/maps/documentation/elevation/#Locations

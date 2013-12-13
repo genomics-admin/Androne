@@ -69,7 +69,7 @@ LatLang.append('13.026216,77.594116')
 #MtrLvl = int(raw_input('Mininum Distance(in mts): '))
 requestCounter=0
 DetailsLevel = 1 #------was supposed to be used for increasing or decreasing details but the concept is not implemented yet
-MtrLvl = 1 #-----------no that says how many meter/ft apart you wish to take a sample for the altitude measurement.
+MtrLvl = 10 #-----------no that says how many meter/ft apart you wish to take a sample for the altitude measurement.
 RequestLimit=60 #-------As we use googles free request service the no of altitude request a single ip can make and the no of sub request a request can have is restricted,this is the subrequest number.
 AltReductionRange=2 #---altitude scale; if set to 1 then the lowest point will be shown as 1 ft/mtr tall from the ground and other points will get adjusted accordingly.
 FieldName='Field1'
