@@ -15,3 +15,13 @@ https://developers.google.com/maps/documentation/utilities/polylinealgorithm
 
 Elevation API Docs:
 https://developers.google.com/maps/documentation/elevation/#Locations
+
+Weather API:
+http://api.wunderground.com/auto/wui/geo/GeoLookupXML/index.xml?query=13.026295,77.593699
+http://www.wunderground.com/weather/api/
+http://stackoverflow.com/questions/951839/api-to-get-weather-based-on-longitude-and-latitude-coordinates
+weather docs:
+http://www.wunderground.com/metarFAQ.asp
+
+Deep Learning Docs:
+http://deeplearning.net/tutorial/deeplearning.pdf
