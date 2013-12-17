@@ -5,8 +5,9 @@ The first deliverable of androne is a simple google earth enhancer that allows u
 
 The latest version of this code is Geocoding V2.0 and the sample output is available in a KML format for a quick functionality verificaition.
 
-GoeCodeing projects - 
+GeoCodeing projects - 
 Ideas still to work on :-
 1. compare with a real field.intigration
 2. Soil info - weather info - irrigation info - wind - sun etc info 
 3. hector conversion for USA usage.
+4. Use a local DB to store the data and only query google when any data not found.
