@@ -25,3 +25,6 @@ http://www.wunderground.com/metarFAQ.asp
 
 Deep Learning Docs:
 http://deeplearning.net/tutorial/deeplearning.pdf
+
+Additional Map Layers:
+http://maps.google.com/gallery/search?cat=environment&hl=en
